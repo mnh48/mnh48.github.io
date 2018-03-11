@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
-webrick:
-  headers:
-    My-Header: MNH48
+title: MNH48
+description: Malay translator
+baseurl: /MuhdNurHidayat.github.io
