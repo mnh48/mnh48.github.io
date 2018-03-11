@@ -2,3 +2,5 @@ theme: jekyll-theme-dinky
 title: MNH48
 description: Malay translator
 baseurl: /MuhdNurHidayat.github.io
+include: [favicon.png, favicon.ico]
+keep_files: [signature, minetest, etc]
