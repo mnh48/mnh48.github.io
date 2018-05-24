@@ -1,5 +1,6 @@
 ---
 title: MNH48
+description: This is the GitHub userpage of MuhdNurHidayat, also known as MNH48 elsewhere.
 ---
 
 This is the GitHub userpage of MuhdNurHidayat, also known as MNH48 elsewhere.
@@ -8,4 +9,4 @@ I'm a translator, usually translating English/Chinese/Japanese to Malay, also do
 
 I'm working on a self-hosted website to showcast my translation works at [mnh48.moe](https://mnh48.moe) so you could see more details on how I do translations when that website is published.
 
-I'm also the main translator of Malay in [Minetest](https://github.com/minetest/minetest), an open-source voxel game engine. I'm making mods for the engine too, but most of them are not published on GitHub (yet). Do check Minetest out if you have some time and join the community!
+I'm also the main translator of Malay in [Minetest](https://github.com/minetest/minetest), an open-source voxel game engine. I'm making mods for the engine too, but most of them are not published on GitHub (yet). The only Minetest mod I've published is the client-side mod [unicodeparser](https://github.com/MuhdNurHidayat/unicodeparser). Do check Minetest out if you have some time and join the community!
